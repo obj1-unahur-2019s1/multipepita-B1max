@@ -17,6 +17,7 @@ object bigMac {
  */ 
 object alcaucil {
 	// completar
+	method energiaPorGramo() { return 20 }
 }
 
 /*
@@ -24,6 +25,24 @@ object alcaucil {
  */ 
 object sorgo {
 	// completar
+	method energiaPorGramo() { return 9 }
 }
 
 // despues, agregar mijo y canelones
+object mijo {
+	// completar
+	var mojado = false
+	method mojarse(){
+		mojado = true
+	}
+	method secarse(){
+		mojado = false
+	}
+	method energiaPorGramo() { 
+		if (mojado){
+			return 15
+		}else{
+			return 20
+		}
+	}
+}
