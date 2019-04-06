@@ -1,7 +1,8 @@
 # Referencias con Pepita, sus amigas, y sus entrenadores
 
 ## Susana, otra entrenadora
-Agreguemos un segundo entrenador, en rigor una entrenadora, Susana. La rutina que Susana hace ejecutar a quien sea su pupilo, tiene solamente dos pasos.
+Agreguemos un segundo entrenador, en rigor una entrenadora, Susana. La rutina que 
+Susana hace ejecutar a quien sea su pupilo, tiene solamente dos pasos.
 1. comer 100 gramos de alpiste
 1. volar 20 km
 

@@ -1,6 +1,7 @@
 # Pepita Turista
 Pepita encuentra reconfortante _visitar_ distintos destinos. 
-Cada posible destino le aporta a pepita cierta cantidad de energía revitalizadora, la cual incrementa directamente su energía (la que hasta el momento solo se modificaba al volar y comer).
+Cada posible destino le aporta a pepita cierta cantidad de energía revitalizadora, la cual incrementa directamente 
+su energía (la que hasta el momento solo se modificaba al volar y comer).
 
 ## Dos destinos iniciales
 Considerar estos dos lugares posibles y sus características:

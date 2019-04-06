@@ -10,7 +10,7 @@ object roque {
 	method tuPupiloEs(ave) {
 		pupilo = ave
 	} // implementar
-	method pupiloActual(ave) {
+	method pupiloActual() {
 		return pupilo 
 	} 
 	method entrenar() { 
